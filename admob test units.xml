@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ads</string>
+    <string name="adunit">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="adbanner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="adinter">ca-app-pub-3940256099942544/1033173712</string>
+	<string name="adreward">ca-app-pub-3940256099942544/5224354917</string>
+
+</resources>
+
+
